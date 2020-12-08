@@ -1,2 +1,26 @@
 # shell-scripting-in-linux
-Shell scripting in linux
+
+## Table of contents
+
+### 1. [Hello Bash Scripting](/Contents/Hello_Bash_Scripting.md)
+### 2. [Redirect to file](Contents/Redirect_to_file.md)
+### 3. [Comments](Contents/Comments.md)
+### 4. [Conditional statements](Contents/conditional_statements.md)
+### 5. [Loops](Contents/loops.md)
+### 6. [Script Input](Contents/script_input.md)
+### 7. [Script Output](Contents/script_output.md)
+### 8. [Pipes](Contents/pipes.md)
+### 9. [String Processing](Contents/string_processing.md)
+### 10. [Numbers and Arithmetics](Contents/numbers_and_arithmetics.md)
+### 11. [Declare Command](Contents/declare_command.md)
+### 12. [Arrays](Contents/arrays.md)
+### 13. [Functions](Contents/functions.md)
+### 14. [Files and Directories](Contents/files_and_directories.md)
+### 15. [Sending email via Script](Contents/sending_email_via_script.md)
+### 16. [Curl in Scripts](Contents/curl_in_script.md)
+### 17. [Professional Menus](Contents/professional_menus.md)
+### 18. [Wait for filesystem events with inotify](Contents/Wait_for_filesystem_events_with_inotify.md)
+### 19. [Introduction to grep](Contents/introduction_to_grep.md)
+### 20. [Introduction to awk](Contents/introduction_to_awk.md)
+### 21. [Introduction to sed](Contents/introduction_to_sed.md)
+### 22. [Debugginbg in Scripts](Contents/debugging_in_script.md)
